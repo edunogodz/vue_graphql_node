@@ -1,0 +1,21 @@
+Install Vue
+npm install -g @vue/cli
+
+create the vue project in the folder
+vue create .
+
+Execute the project for the first time
+npm run serve
+
+http://localhost:8080/
+
+vscode extensions
+#Todo: List
+
+Import Bootstrap
+npm install bootstrap --save
+
+Import Font Awesome
+npm install font-awesome --save
+
+npm run serve
