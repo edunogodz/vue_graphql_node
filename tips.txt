@@ -19,3 +19,17 @@ Import Font Awesome
 npm install font-awesome --save
 
 npm run serve
+
+Lint
+in package json "lint": "vue-cli-service lint --no-fix" //to not fix automatically
+npm run lint
+
+in package json - rules //define the code rules
+in settings.json - define language to be fixed
+
+Vue
+Commands:
+v-for - like the for command
+v-bind:key= - define a reference
+v-model =take value
+v-on:click= button click
