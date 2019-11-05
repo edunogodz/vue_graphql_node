@@ -33,3 +33,9 @@ v-for - like the for command
 v-bind:key= - define a reference
 v-model =take value
 v-on:click= button click
+
+hooks
+created() - to use reactive create
+beforeCreate
+
+Computed Properties
