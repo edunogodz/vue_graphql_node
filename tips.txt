@@ -39,3 +39,7 @@ created() - to use reactive create
 beforeCreate
 
 Computed Properties
+
+
+npm run build  - para gerar uma versao otimizada
+foi gerada a pasta dist/
